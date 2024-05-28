@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/gsmith257-cyber/proxify-ng/pkg/proxy/netstack/tun"
+	"github.com/PhantomSecurityGroup/proxify/pkg/proxy/netstack/tun"
 	"github.com/nicocha30/gvisor-ligolo/pkg/tcpip"
 	"github.com/nicocha30/gvisor-ligolo/pkg/tcpip/header"
 	"github.com/nicocha30/gvisor-ligolo/pkg/tcpip/network/ipv4"

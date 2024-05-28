@@ -3,7 +3,7 @@ package proxy
 import (
 	"context"
 
-	"github.com/gsmith257-cyber/proxify-ng/pkg/proxy/netstack"
+	"github.com/PhantomSecurityGroup/proxify/pkg/proxy/netstack"
 	"github.com/hashicorp/yamux"
 	"github.com/sirupsen/logrus"
 )

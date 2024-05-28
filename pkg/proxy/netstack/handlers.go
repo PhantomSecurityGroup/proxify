@@ -3,8 +3,8 @@ package netstack
 import (
 	"io"
 
-	"github.com/gsmith257-cyber/proxify-ng/pkg/protocol"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/relay"
+	"github.com/PhantomSecurityGroup/proxify/pkg/protocol"
+	"github.com/PhantomSecurityGroup/proxify/pkg/relay"
 	"github.com/hashicorp/yamux"
 	"github.com/nicocha30/gvisor-ligolo/pkg/tcpip"
 	"github.com/nicocha30/gvisor-ligolo/pkg/tcpip/adapters/gonet"

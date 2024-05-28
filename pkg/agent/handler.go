@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/gsmith257-cyber/proxify-ng/pkg/agent/neterror"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/agent/smartping"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/protocol"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/relay"
+	"github.com/PhantomSecurityGroup/proxify/pkg/agent/neterror"
+	"github.com/PhantomSecurityGroup/proxify/pkg/agent/smartping"
+	"github.com/PhantomSecurityGroup/proxify/pkg/protocol"
+	"github.com/PhantomSecurityGroup/proxify/pkg/relay"
 	"github.com/sirupsen/logrus"
 )
 

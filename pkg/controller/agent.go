@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/gsmith257-cyber/proxify-ng/pkg/protocol"
+	"github.com/PhantomSecurityGroup/proxify/pkg/protocol"
 	"github.com/hashicorp/yamux"
 )
 

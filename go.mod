@@ -1,4 +1,4 @@
-module github.com/gsmith257-cyber/proxify-ng
+module github.com/PhantomSecurityGroup/proxify
 
 go 1.22.3
 

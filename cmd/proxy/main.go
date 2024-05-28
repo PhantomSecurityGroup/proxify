@@ -5,10 +5,10 @@ import (
 	"os"
 	"strings"
 
+	"github.com/PhantomSecurityGroup/proxify/cmd/proxy/app"
+	"github.com/PhantomSecurityGroup/proxify/pkg/controller"
 	"github.com/desertbit/grumble"
 	"github.com/hashicorp/yamux"
-	"github.com/gsmith257-cyber/proxify-ng/cmd/proxy/app"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/controller"
 	"github.com/sirupsen/logrus"
 )
 

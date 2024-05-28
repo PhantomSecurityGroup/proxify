@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/gsmith257-cyber/proxify-ng/pkg/agent"
+	"github.com/PhantomSecurityGroup/proxify/pkg/agent"
 	"github.com/hashicorp/yamux"
 	"github.com/sirupsen/logrus"
 	goproxy "golang.org/x/net/proxy"

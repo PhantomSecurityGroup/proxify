@@ -11,11 +11,11 @@ import (
 	"time"
 
 	"github.com/AlecAivazis/survey/v2"
+	"github.com/PhantomSecurityGroup/proxify/pkg/controller"
+	"github.com/PhantomSecurityGroup/proxify/pkg/proxy"
+	"github.com/PhantomSecurityGroup/proxify/pkg/proxy/netstack"
 	"github.com/desertbit/grumble"
 	"github.com/jedib0t/go-pretty/v6/table"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/controller"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/proxy"
-	"github.com/gsmith257-cyber/proxify-ng/pkg/proxy/netstack"
 	"github.com/sirupsen/logrus"
 )
 
